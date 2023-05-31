@@ -1,7 +1,7 @@
 <h1>Straight Outta Compton</h1>
 <h5>F. Gary Gray</h5>
 
-<h5>Cast</h5>
+<h4>Cast</h4>
 
 <ol>
   <li>O'Shea Jackson Jr. as <strong>Ice Cube</strong></li>
