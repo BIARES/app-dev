@@ -5,7 +5,7 @@
 
 <ol>
   <li>O'Shea Jackson Jr. as <strong>Ice Cube</strong></li>
-  <li>Corey Hawkins as <strongDr. Dre</strong></li>
+  <li>Corey Hawkins as <strong>Dr. Dre</strong></li>
   <li>Jason Mitchell as <strong>Eazy E</strong></li>
   <li>Aldis Hodge as <strong>MC Ren</strong></li>
   <li>Neil Brown Jr. as <strong>DJ Yella</strong></li>
